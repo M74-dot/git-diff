@@ -1,4 +1,1 @@
-Hello my name is Manisha Mali
-I am currently studying Engineering in WCE.
-Git diff
-hello I am Manisha
+Hello Manisha
